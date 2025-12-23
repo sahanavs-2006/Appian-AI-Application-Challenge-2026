@@ -2,8 +2,8 @@
 
 **Context-Aware AI Knowledge Assistant for Case Management**
 
-[![Appian AI Application Challenge 2026](https://img.shields.io/badge/Appian%20AI-Challenge%202026-blue)](https://appian.com)
-[![IIT Madras - Shaastra](https://img.shields.io/badge/IIT%20Madras-Shaastra-orange)](https://shaastra.org)
+[![Appian AI Application Challenge 2026 | IIT Madras Shaastra](https://img.shields.io/badge/Appian_AI_Challenge_2026_•_IIT_Madras_Shaastra-blue)](https://shaastra.org)
+
 
 ## 🎯 Problem Statement
 
@@ -219,4 +219,4 @@ This project is submitted for the Appian AI Application Challenge 2026.
 
 ---
 
-**Built with ❤️ for better citizen services and efficient case management**
+
